@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Hasan Yağız Demir 👋</h1>
 
-<!--
-**54HyD54/54HyD54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Management Information Systems (MIS) Student | Full Stack Developer</b>
+</p>
 
-Here are some ideas to get you started:
+I'm an MIS student continuously improving my skills in full-stack development, software engineering, and data management. I enjoy building end-to-end applications, designing robust databases, and exploring game mechanics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Doing Now
+* 💻 Actively working on **Full Stack Development** projects, integrating intuitive front-ends with robust back-ends.
+* 🌱 Developing backend logic and database designs using **C#** and **SQL** (like Oto Servis Yönetim Sistemi).
+* 🎮 Building 2D platformer mechanics using **Godot (GDScript)** and exploring VR concepts with **Unity**.
+* 🔐 Expanding my knowledge in **Python (Pandas, NumPy)** and network security protocols.
+
+### 🛠️ Tech Stack & Tools
+* **Full Stack & Languages:** C#, Python, SQL, HTML/CSS
+* **Game Development:** Godot Engine, Unity
+* **Concepts:** Full Stack Architecture, Database Design (ER Diagrams), Object-Oriented Programming
