@@ -17,5 +17,11 @@ I'm an MIS student continuously improving my skills in full-stack development, s
 * **Game Development:** Godot Engine, Unity
 * **Concepts:** Full Stack Architecture, Database Design (ER Diagrams), Object-Oriented Programming
 
-### 📦 Featured Projects
-* **[FileFlow v1.0](https://github.com/54HyD54/FileFlow)** — A .NET 8 Windows Forms desktop app for rule-based file organization, duplicate detection, folder analysis, and SQLite-backed activity statistics. **More versions are planned.**
+### 📦 Projects
+* **[FileFlow v1.0](https://github.com/54HyD54/FileFlow)** — .NET 8 Windows Forms app for rule-based file organization, duplicate detection, folder analysis, and SQLite-backed statistics. More versions are planned.
+* **[Flight Ticket Reservation System](https://github.com/54HyD54/Flight-Ticket-Reservation-System)** — Windows Forms demo for entering flight and passenger details.
+* **[Simple Pizza Maker App](https://github.com/54HyD54/Simpe-Pizza-Maker-App)** — Windows Forms pizza builder with selectable types, sizes, toppings, and price calculation.
+* **[Student System](https://github.com/54HyD54/Student-System)** — Console-based student list with add, list, and remove actions.
+* **[Simple Bank Account](https://github.com/54HyD54/Simple-Bank-Account-)** — Console demo for balance checks, deposits, and withdrawals.
+* **[Stock Management Control](https://github.com/54HyD54/Stock-Management-Control)** — Console inventory demo for stone, wood, iron, and gold.
+* **[Army Management System](https://github.com/54HyD54/Army-Management-System)** — Project starter; source code has not been added yet.
