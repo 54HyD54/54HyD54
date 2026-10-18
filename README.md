@@ -16,3 +16,6 @@ I'm an MIS student continuously improving my skills in full-stack development, s
 * **Full Stack & Languages:** C#, Python, SQL, HTML/CSS
 * **Game Development:** Godot Engine, Unity
 * **Concepts:** Full Stack Architecture, Database Design (ER Diagrams), Object-Oriented Programming
+
+### 📦 Featured Projects
+* **FileFlow v1.0** — A .NET 8 Windows Forms desktop app for rule-based file organization, duplicate detection, folder analysis, and SQLite-backed activity statistics. **More versions are planned.**
